@@ -1,0 +1,68 @@
+* {
+    margin: 0px;
+    color: aliceblue;
+    font-family: 'Roboto', sans-serif;
+}
+
+.box {
+    text-align: center;
+    font: 400;
+    background: rgb(13,0,24);
+background: linear-gradient(90deg, rgba(13,0,24,1) 0%, rgba(16,0,57,1) 26%, rgba(118,0,128,1) 96%);
+
+
+    margin: 200px 500px;
+    padding: 200px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 19px grey;
+}
+
+.title {
+    color: #D59CEB;
+    font: 900;
+    font-style: italic;
+    display: inline;
+    font-size: 70px;
+    text-shadow: 5px 5px 15px rgb(0, 0, 0);
+}
+
+.remember {
+    font: 400;
+    display: inline;
+    padding-right: 160px;
+    text-align: left;
+    text-shadow: 5px 5px 15px rgb(0, 0, 0);
+}
+
+.forgot-pass {
+    display: inline;
+    text-align: right;
+    text-shadow: 5px 5px 15px rgb(0, 0, 0);
+    text-decoration: underline;
+}
+
+.new-user {
+    display: inline;
+    text-shadow: 5px 5px 15px rgb(0, 0, 0);
+}
+
+.input {
+    font-size: 18px;
+    width: 400px;
+    height: 50px;
+    color: black;
+
+}
+
+.btn {
+    font-size: 20px;
+    color: black;
+    width: 400px;
+    height: 50px;
+}
+a {
+    font-style: italic;
+}
+.register {
+    color: #177cf8;
+}
